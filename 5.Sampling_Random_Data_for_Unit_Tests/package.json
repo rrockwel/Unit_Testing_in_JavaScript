@@ -1,0 +1,12 @@
+{
+  "name": "3.Unit_Testing_Initial_Conditions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
